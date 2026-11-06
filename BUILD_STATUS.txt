@@ -1,0 +1,6 @@
+PROJECT: Fakepixel Smooth FPS PRO 2.0.0
+TARGET: Minecraft 1.8.9 / Forge 11.15.1.2318 / Java 8
+STATUS: Source project with GitHub Actions build workflow
+BUILD: Not yet run; no installable JAR has been verified
+HOW TO BUILD: Upload project to GitHub, then run Actions > Build Fakepixel Smooth FPS PRO
+TESTING: No compilation, launcher startup, or in-game test has been performed
